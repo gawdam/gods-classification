@@ -543,6 +543,10 @@
   color: white;
 }
 
+.feedback-text{
+    text-align:center;
+}
+
 
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
