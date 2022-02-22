@@ -12,11 +12,24 @@ Chrome extension used to batch download: 'Download all images'
 
 Following are the classes:
 - Brahma
+
+![1-500x500](https://user-images.githubusercontent.com/19368262/155070249-dd50ec71-d8ec-4643-8d38-eb5015869c4f.jpg)
+
 - Hanuman
+
+![1](https://user-images.githubusercontent.com/19368262/155070310-6760f4bf-2090-4f3a-9309-5a6f8428a182.jpg)
+
 - Ganesha
+
+![3d094debf7eddcc011a71b892188dc59](https://user-images.githubusercontent.com/19368262/155070290-ad2debaa-197a-444f-973a-5ec2cf54725f.jpg)
+
 - Shiva
+
+![1-Seated-Shiva-With-Trident-Statue](https://user-images.githubusercontent.com/19368262/155070333-5a880e53-abf4-485d-849c-dcd8de7a9485.jpg)
+
 - Vishnu
 
+![1-Brass-Vishnu-Carving-With-Garuda](https://user-images.githubusercontent.com/19368262/155070355-497ffc64-06bf-4d0d-bbe5-5c65e25b5b98.jpg)
 
 ## Model training
 
@@ -36,12 +49,14 @@ In this secion, all the tuning parameters are listed. A multitude of experiments
 - Training-optimizer : Adam | SGD
 - Training-loss : CategoricalCrossEntropy
 - Training-dataset : Abalation
-- Evaluation-metric : Accuracy | Precision(with declassification threshold) |Avg ROC-AUC
+- Evaluation-metric : Accuracy | Precision(with declassification threshold) | Avg ROC-AUC
 
 Visit [training logs spreadsheet](https://docs.google.com/spreadsheets/d/14M4bjHU0hTsIOE5Kg2HED66Pj8S2rfyHNIVaIluxvsc/edit?usp=sharing) to learn more.
 
 
 ## Final Model
+
+Train-validation-test split : 72%-18%-10%
 
 ![image](https://user-images.githubusercontent.com/19368262/155069292-95a9e859-a4b5-42e3-a051-bc2c203c63b9.png)
 
