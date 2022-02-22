@@ -53,10 +53,15 @@ Visit [training logs spreadsheet](https://docs.google.com/spreadsheets/d/14M4bjH
 ## Model Evaluation
 
 - Confusion Matrix
+
 ![image](https://user-images.githubusercontent.com/19368262/155069393-2b90a27c-4f90-4460-bccf-43ff5a18ad40.png)
+
 - ROC curve
+
 ![image](https://user-images.githubusercontent.com/19368262/155069512-bd2081c7-bbf6-4ed4-aff9-c17a7ab87dd7.png)
+
 - Classification confidence histogram
+
 ![image](https://user-images.githubusercontent.com/19368262/155069617-1400eecf-7519-41a3-9432-a44047021848.png)
 
 
