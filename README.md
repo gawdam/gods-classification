@@ -72,11 +72,12 @@ Train-validation-test split : 72%-18%-10%
 
 ## Model Evaluation
 
-|---------------------------------|-----|
-| Training Accuracy               | 90% |
-| Validation Accuracy             | 86% |
-| Test Accuracy                   | 84% |
-| Test Accuracy (with correction) | 88% |
+| Dataset               | Accuracy |
+|-----------------------|----------|
+| Training              | 90%      |
+| Validation            | 86%      |
+| Test                  | 84%      |
+| Test(with correction) | 88%      |
 
 - Confusion Matrix
 
