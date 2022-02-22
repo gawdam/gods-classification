@@ -10,7 +10,7 @@ The classification is done by a 3-layer CNN model, which takes an RGB image as a
 ~500 images per class was collected from google images by searching for <class_name>+"idol". 
 Chrome extension used to batch download: 'Download all images'
 
-Here are a few images from each class
+Following are the classes:
 - Brahma
 - Hanuman
 - Ganesha
