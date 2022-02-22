@@ -4,6 +4,11 @@ This project is an attempt at developing a repository for mythical figures.
 The classification is done by a 3-layer CNN model, which takes an RGB image as an input. 
 
 
+## Background
+
+This project is a spinoff of a conversation with a foreigner that I had in Rishikesh, where he pointed at an idol and asked me which god it was. I didn't know. We discussed on how it'd be nice if there was an app where you could scan idols and identify the god.
+
+At this point, I wanted to experiment with a few CNN techniques and at the same time do something novel, so I decided to take my shot at this problem statement
 
 ## Data Collection
 
