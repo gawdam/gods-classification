@@ -72,6 +72,7 @@ Train-validation-test split : 72%-18%-10%
 
 ## Model Evaluation
 
+|---------------------------------|-----|
 | Training Accuracy               | 90% |
 | Validation Accuracy             | 86% |
 | Test Accuracy                   | 84% |
